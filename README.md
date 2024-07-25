@@ -1,5 +1,5 @@
 # codsoft ai internship
-Task 1: Rule-based Chatbot
+Task 1: Rule-based Chatbot-
 This project showcases the creation of a rule-based chatbot from scratch, providing a comprehensive exploration of natural language processing (NLP) techniques and conversation flow
 management. The chatbot's architecture encompasses various components, including text preprocessing, intent recognition, and response generation. Through the implementation of this chatbot,
 users gain insights into the intricacies of designing conversational agents that can engage in meaningful interactions with users. By understanding the underlying principles of rule-based
@@ -7,8 +7,11 @@ systems, developers can grasp how to handle user input effectively and craft res
 challenges of building robust chatbots capable of handling diverse user queries and maintaining coherent conversations.
 
 Task 2: Tic-Tac-Toe AI
-This project presents the development of an unbeatable Tic-Tac-Toe AI, offering a deep dive into game theory principles and search algorithms. The AI is designed to make optimal moves
-against human players, employing advanced techniques such as minimax algorithm with alpha-beta pruning to search through the game tree efficiently. By implementing this AI, users can
+
+This project presents the development of an unbeatable Tic-Tac-Toe AI, offering a deep dive into game theory principles and search
+algorithms. The AI is designed to make optimal moves
+against human players, employing advanced techniques such as minimax algorithm with alpha-beta pruning to search through the game tree
+efficiently. By implementing this AI, users can
 explore the intricacies of artificial intelligence in the context of game playing. This project provides insights into how algorithms analyze game states, evaluate potential moves, and
 make strategic decisions to outperform human opponents. Through experimentation and refinement, developers can enhance their understanding of decision-making processes in AI and apply
 these concepts to other domains beyond gaming.
