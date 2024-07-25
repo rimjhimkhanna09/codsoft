@@ -1,5 +1,7 @@
 # codsoft ai internship
-Task 1: Rule-based Chatbot-
+
+Task 1: Rule-based Chatbot
+
 This project showcases the creation of a rule-based chatbot from scratch, providing a comprehensive exploration of natural language processing (NLP) techniques and conversation flow
 management. The chatbot's architecture encompasses various components, including text preprocessing, intent recognition, and response generation. Through the implementation of this chatbot,
 users gain insights into the intricacies of designing conversational agents that can engage in meaningful interactions with users. By understanding the underlying principles of rule-based
@@ -17,6 +19,7 @@ make strategic decisions to outperform human opponents. Through experimentation 
 these concepts to other domains beyond gaming.
 
 Task 4: Recommendation System
+
 This project showcases the development of a recommendation system using collaborative or content-based filtering techniques, delving into the realm of AI-driven personalization. The
 recommendation system analyzes user interactions with items, such as ratings or purchases, to generate personalized suggestions. Through collaborative filtering, the system identifies
 users with similar preferences and recommends items based on their collective behavior. Alternatively, content-based filtering suggests items based on their attributes and features,
